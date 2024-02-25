@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(126, 6, 116) ;
+    width: ;
+    height: ;
+}
+.boddy{
+    position: relative;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white;
+  }
+  .name{
+    display: inline;
+    float: left;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    padding: 20px;
+    background-color: ;
+  }
+  .Slider{
+    position: absolute;
+    top: 160px;
+    left: 900px ;
+    width: 60%;
+    height: ;
+  }
+  .space{
+    background-color: white;
+  }
+  .galary{
+    position: absolute;
+    top: 160px;
+    left: 900px;
+    width:40%;
+    height: 1000px;
+  }
